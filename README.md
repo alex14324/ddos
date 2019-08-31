@@ -1,4 +1,4 @@
-# ddos2track
+# ddos
 
 With this tool you can block HTTP Flood Attacks and analyze them with a honeypot.
 
